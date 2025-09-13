@@ -1,3 +1,5 @@
+// Where the game functions and user input's guesses
+
 #include <iostream>
 #include "Game.h"
 #include "Drawing.h"
@@ -111,3 +113,4 @@ void Game::startGame() {
     
 
 }
+
