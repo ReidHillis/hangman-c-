@@ -1,0 +1,200 @@
+Food & Drink, Pizza
+Food & Drink, Iced Coffee
+Food & Drink, Chicken Wings
+Food & Drink, Cheeseburger
+Food & Drink, French Fries
+Food & Drink, Lemonade
+Food & Drink, Sushi
+Food & Drink, Apple
+Food & Drink, Chocolate Bar
+Food & Drink, Salad
+Emotions, Happiness
+Emotions, Anxiety
+Emotions, Jealousy
+Emotions, Anger
+Emotions, Boredom
+Emotions, Confusion
+Emotions, Pride
+Emotions, Embarrassment
+Emotions, Excitement
+Emotions, Sadness
+Historical People, Albert Einstein
+Historical People, William Shakespeare
+Historical People, Cleopatra
+Historical People, Abraham Lincoln
+Historical People, Leonardo da Vinci
+Historical People, Queen Elizabeth
+Historical People, Neil Armstrong
+Historical People, Julius Caesar
+Historical People, Isaac Newton
+Historical People, Charles Darwin
+Animals, Kangaroo
+Animals, Elephant
+Animals, Hedgehog
+Animals, Polar Bear
+Animals, Great White Shark
+Animals, Giant Squid
+Animals, Electric Eel
+Animals, Octopus
+Animals, Raccoon
+Animals, Penguin
+Movies, Titanic
+Movies, Avatar
+Movies, The Godfather
+Movies, Pulp Fiction
+Movies, Forrest Gump
+Movies, Fight Club
+Movies, The Wolf of Wall Street
+Movies, The Matrix
+Movies, Saving Private Ryan
+Movies, Back to the Future
+Sports, Basketball
+Sports, Beach Volleyball
+Sports, Archery
+Sports, Gymnastics
+Sports, Skateboarding
+Sports, Wrestling
+Sports, Figure Skating
+Sports, Curling
+Sports, Badminton
+Sports, Ice Hockey
+TV Shows, The Walking Dead
+TV Shows, Friends
+TV Shows, Stranger Things
+TV Shows, The Office
+TV Shows, Breaking Bad
+TV Shows, Game of Thrones
+TV Shows, Doctor Who
+TV Shows, The Simpsons
+TV Shows, How I Met Your Mother
+TV Shows, Prison Break
+Music Artists, Taylor Swift
+Music Artists, Beyonce
+Music Artists, The Weeknd
+Music Artists, The Beatles
+Music Artists, Elvis Presley
+Music Artists, Michael Jackson
+Music Artists, Bob Marley
+Music Artists, Frank Sinatra
+Music Artists, Justin Bieber
+Music Artists, Ed Sheeran
+Nature, Waterfall
+Nature, Coral Reef
+Nature, Mountain Range
+Nature, Hurricane
+Nature, Heat Wave
+Nature, Thunderstorm
+Nature, Rainbow
+Nature, Volcano
+Nature, Grand Canyon
+Nature, Rainforest
+Vehicles, Submarine
+Vehicles, Airplane
+Vehicles, Helicopter
+Vehicles, School Bus
+Vehicles, Garbage Truck
+Vehicles, Cruise Ship
+Vehicles, Hot Air Balloon
+Vehicles, Bullet Train
+Vehicles, Scooter
+Vehicles, Snowmobile
+Technology, Smart Watch
+Technology, Bluetooth Headphones
+Technology, Electric Car
+Technology, Remote Control
+Technology, Cell Phone
+Technology, Drone
+Technology, Motherboard
+Technology, Battery
+Technology, Keyboard
+Technology, Television
+Colours, Magenta
+Colours, Navy Blue
+Colours, Lime Green
+Colours, Hot Pink
+Colours, Yellow
+Colours, Maroon
+Colours, Purple
+Colours, Forest Green
+Colours, Baby Blue
+Colours, Turquoise
+Musical Instruments, Saxophone
+Musical Instruments, Trumpet
+Musical Instruments, Bass Guitar
+Musical Instruments, Trombone
+Musical Instruments, Electric Guitar
+Musical Instruments, Grand Piano
+Musical Instruments, French Horn
+Musical Instruments, Violin
+Musical Instruments, Clarinet
+Musical Instruments, Ukulele
+Occupations, Police Officer
+Occupations, Software Engineer
+Occupations, Bus Driver
+Occupations, Graphic Designer
+Occupations, Teacher
+Occupations, Architect
+Occupations, Mechanic
+Occupations, Electrician
+Occupations, Librarian
+Occupations, Flight Attendant
+Holidays, Halloween
+Holidays, Thanksgiving
+Holidays, Christmas
+Holidays, Easter
+Holidays, Canada Day
+Holidays, Good Friday
+Holidays, Boxing Day
+Holidays, Remembrance Day
+Holidays, New Year
+Holidays, Earth Day
+Countries, Canada
+Countries, Australia
+Countries, Mexico
+Countries, France
+Countries, United Kingdom
+Countries, South Korea
+Countries, New Zealand
+Countries, Germany
+Countries, Ireland
+Countries, South Africa
+Games, Checkers
+Games, Chess
+Games, Dominoes
+Games, Sudoku
+Games, Minesweeper
+Games, Connect Four
+Games, Rock Paper Scissors
+Games, Tic Tac Toe
+Games, Monopoly
+Games, Tetris
+Brands, Starbucks
+Brands, Netflix
+Brands, Nintendo
+Brands, Disney
+Brands, Amazon
+Brands, Google
+Brands, Coca Cola
+Brands, Red Bull
+Brands, American Express
+Brands, Microsoft
+Hobbies, Photography
+Hobbies, Knitting
+Hobbies, Gardening
+Hobbies, Fishing
+Hobbies, Painting
+Hobbies, Rock Climbing
+Hobbies, Bird Watching
+Hobbies, Reading Books
+Hobbies, Baking
+Hobbies, Swimming
+Clothing, Overalls
+Clothing, Sweatshirt
+Clothing, Tuxedo
+Clothing, Leggings
+Clothing, Rain Boots
+Clothing, Mittens
+Clothing, Leather Jacket
+Clothing, Cargo Pants
+Clothing, Baseball Cap
+Clothing, Tank Top
