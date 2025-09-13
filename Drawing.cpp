@@ -1,3 +1,5 @@
+// Draws the hangman's current stage
+
 #include "Drawing.h"
 #include <iostream>
 using namespace std;
@@ -74,4 +76,5 @@ string Drawing::getDrawing() {
     else {
         return "";
     }
+
 }
